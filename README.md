@@ -19,7 +19,8 @@ The goal of this project is to understand which of the variables in study drive 
 ### [Predicting NBA Salaries](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectNBA)
 The goal of this project is to build a model that predicts the NBA salaries.
 
-### Predicting IMDB rating for movies
+### [Wholesale Customers](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWC)
+The goal of this project is to identify and describe the various customer segments hidden in the data.
 
 ### Predicting Boston Real Estate Prices
 
