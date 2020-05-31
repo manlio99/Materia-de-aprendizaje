@@ -8,9 +8,10 @@
 ## Midterm Projects
 
 ### [Predicting IMDB rating for movies](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/KaggleIMDB)
-The goal of this project is to build a model that predicts the IMDB rating score based on attributes as duration, actors or even titles. 
+The goal of this project is to build a model that predicts the IMDB rating score based on attributes as duration, actors or even titles. You will be working with data from the Internet Movie Database [website] (https://www.imdb.com/). 
 
-### Predicting Boston Real Estate Prices
+### [Understanding Boston Housing Prices](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/KaggleBHP)
+The goal of this project is to understand which of the variables in study drive the price of homes in Boston. 
 
 ### Predicting NBA Salaries 
 
