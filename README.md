@@ -1,9 +1,9 @@
 # Data Science Capstone
 
-## Intro
+## Intro to DSC
 
-1. [Anscombe's quartet](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/1_Anscombe/anscombe.ipynb)
-2. [Text Classification](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/2_TextClassification/text_classifier.ipynb)
+### [Anscombe's quartet](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/1_Anscombe/anscombe.ipynb)
+### [Text Classification](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/2_TextClassification/text_classifier.ipynb)
 
 ## Midterm Projects
 
