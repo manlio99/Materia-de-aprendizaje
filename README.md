@@ -11,7 +11,7 @@ A python notebook to perform sentiment analysis from tweets.
 ## Midterm Projects
 
 ### [Predicting IMDB rating for movies](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectIMDB)
-The goal of this project is to build a model that predicts the IMDB rating score based on attributes as duration, actors or even titles.
+The goal of this project is to build a model that predicts the IMDB rating score based on movie attributes.
 
 ### [Understanding Boston Housing Prices](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBHP)
 The goal of this project is to understand which of the variables in study drive the price of homes in Boston. 
