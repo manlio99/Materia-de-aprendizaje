@@ -3,7 +3,10 @@
 ## Intro to DSC
 
 ### [Anscombe's quartet](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/1_Anscombe/anscombe.ipynb)
+A python notebook exploring the Anscombe's quartet dataset. 
+
 ### [Text Classification](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/2_TextClassification/text_classifier.ipynb)
+A python notebook to perform sentiment analysis from tweets. 
 
 ## Midterm Projects
 
