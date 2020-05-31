@@ -25,7 +25,8 @@ The goal of this project is to identify and describe the various customer segmen
 ### [Classifying Fake News](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFN)
 The goal of this project is to build a model to identify fake news. 
 
-### Project 6
+### [Predicting Flight Delays](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFD)
+The goal of this project is predict flight delays in the month of January. 
 
 ### Project 7
 
