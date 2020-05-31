@@ -22,30 +22,31 @@ The goal of this project is to build a model that predicts the NBA salaries.
 ### [Wholesale Customers](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWC)
 The goal of this project is to identify and describe the various customer segments hidden in the data.
 
-### Predicting Boston Real Estate Prices
+### [Classifying Fake News](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFN)
+The goal of this project is to build a model to identify fake news. 
 
-### Predicting NBA Salaries 
+### Project 6
 
-### Classifiying NBA Salaries 
+### Project 7
 
-### Classifiying IMDB rating for movies
+### Project 8
 
-### Classifiying Boston Real Estate Prices
+### Project 9
 
-### Classifiying NBA Salaries 
+### Project 10 
 
-### Classifiying Boston Real Estate Prices
+### Project 11
 
-### Classifiying NBA Salaries 
+### Project 12
 
-### Clustering NBA Salaries 
+### Project 13
 
-### Clustering IMDB rating for movies
+### Project 14
 
-### Clustering Boston Real Estate Prices
+### Project 15
 
-### Clustering NBA Salaries 
+### Project 16
 
-### Clustering Boston Real Estate Prices
+### Project 17
 
-### Clustering NBA Salaries 
+### Project 18
