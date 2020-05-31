@@ -7,9 +7,8 @@
 
 ## Midterm Projects
 
-### Predicting IMDB rating for movies
+### [Predicting IMDB rating for movies](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/KaggleIMDB)
 The goal of this project is to build a model that predicts the IMDB rating score based on attributes as duration, actors or even titles. 
-Data form [Kaggle](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 
 ### Predicting Boston Real Estate Prices
 
