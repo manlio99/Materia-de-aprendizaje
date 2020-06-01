@@ -28,7 +28,8 @@ The goal of this project is to build a model to identify fake news.
 ### [Predicting Flight Delays](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFD)
 The goal of this project is predict flight delays in the month of January. 
 
-### Project 7
+### [Violent Crime Rates by US State](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectUSA)
+The goal of this project is to identify hierarchies of clusters of US states according to violent crime rates data. 
 
 ### Project 8
 
