@@ -34,7 +34,8 @@ The goal of this project is to identify hierarchies of clusters of US states acc
 ### [Trends in Beer Preferences](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBEE)
 The goal of this project is to clusterize and identify trends in beer preferences.
 
-### Project 9
+### [Wine Reviews](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWNF)
+The goal of this project is to clusterize and identify trends in wine preferences.
 
 ### Project 10 
 
