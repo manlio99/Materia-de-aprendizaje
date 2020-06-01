@@ -40,7 +40,8 @@ The goal of this project is to identify hierarchies of clusters of US states acc
 ### [Wine Reviews](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWNF)
 The goal of this project is to clusterize and identify trends in wine preferences.
 
-### Project 11
+### [Spotify Top Songs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectTSS)
+The goal of this project is to understand which features make a song popular.
 
 ### Project 12
 
