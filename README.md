@@ -10,8 +10,14 @@ A python notebook to perform sentiment analysis from tweets.
 
 ## Midterm Projects
 
-### [Predicting IMDB rating for movies](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectIMDB)
-The goal of this project is to build a model that predicts the IMDB rating score based on movie attributes.
+### [The Beat of the Music](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBOM)
+The goal of this project is to characterize song clusters through their musical attributes.
+
+### [Trends in Beer Preferences](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBEE)
+The goal of this project is to clusterize and identify trends in beer preferences.
+
+### [Classifying Fake News](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFN)
+The goal of this project is to build a model to identify fake news. 
 
 ### [Understanding Boston Housing Prices](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBHP)
 The goal of this project is to understand which of the variables in study drive the price of homes in Boston. 
@@ -22,22 +28,17 @@ The goal of this project is to build a model that predicts the NBA salaries.
 ### [Wholesale Customers](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWC)
 The goal of this project is to identify and describe the various customer segments hidden in the data.
 
-### [Classifying Fake News](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFN)
-The goal of this project is to build a model to identify fake news. 
-
 ### [Predicting Flight Delays](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFD)
 The goal of this project is predict flight delays in the month of January. 
+
+### [Predicting IMDB rating for movies](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectIMDB)
+The goal of this project is to build a model that predicts the IMDB rating score based on movie attributes.
 
 ### [Violent Crime Rates by US State](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectUSA)
 The goal of this project is to identify hierarchies of clusters of US states according to violent crime rates data. 
 
-### [Trends in Beer Preferences](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBEE)
-The goal of this project is to clusterize and identify trends in beer preferences.
-
 ### [Wine Reviews](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWNF)
 The goal of this project is to clusterize and identify trends in wine preferences.
-
-### Project 10 
 
 ### Project 11
 
