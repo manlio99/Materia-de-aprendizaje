@@ -31,7 +31,8 @@ The goal of this project is predict flight delays in the month of January.
 ### [Violent Crime Rates by US State](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectUSA)
 The goal of this project is to identify hierarchies of clusters of US states according to violent crime rates data. 
 
-### Project 8
+### [Trends in Beer Preferences](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBEE)
+The goal of this project is to clusterize and identify trends in beer preferences.
 
 ### Project 9
 
