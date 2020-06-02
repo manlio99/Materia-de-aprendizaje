@@ -61,5 +61,5 @@ The goal of this project is to build a model able to recognize fraudulent credit
 ### [Rainbow Guru](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRBG)
 The goal of this project is to build a model able to predict color names. 
 
-
-### Project 18
+### [Breast Cancer Diagnostic](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBCD)
+The goal of this project is to build a model able to predict the diagnosis of breast cancer tissues as malignant or benign.
