@@ -46,7 +46,8 @@ The goal of this project is to clusterize and identify trends in wine preference
 ### [Music Genre Classification](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectGTZ)
 The goal of this project is to build a model to classify audio tracks by genre.
 
-### Project 13
+### [Chatbot](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectPCB)
+The goal of this project is to build a chatbot using predefined input patterns and responses.
 
 ### Project 14
 
