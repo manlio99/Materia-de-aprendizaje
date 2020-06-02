@@ -34,16 +34,17 @@ The goal of this project is predict flight delays in the month of January.
 ### [Predicting IMDB rating for movies](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectIMDB)
 The goal of this project is to build a model that predicts the IMDB rating score based on movie attributes.
 
+### [Spotify Top Songs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectTSS)
+The goal of this project is to understand which features make a song popular.
+
 ### [Violent Crime Rates by US State](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectUSA)
 The goal of this project is to identify hierarchies of clusters of US states according to violent crime rates data. 
 
 ### [Wine Reviews](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWNF)
 The goal of this project is to clusterize and identify trends in wine preferences.
 
-### [Spotify Top Songs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectTSS)
-The goal of this project is to understand which features make a song popular.
-
-### Project 12
+### [Music Genre Classification](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectGTZ)
+The goal of this project is to build a model to classify audio tracks by genre.
 
 ### Project 13
 
