@@ -58,6 +58,8 @@ The goal of this project is to build a model that identifies traffic signs image
 ### [Detecting Credit Card Fraud](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCCF)
 The goal of this project is to build a model able to recognize fraudulent credit card transactions.
 
-### Project 17
+### [Rainbow Guru](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRBG)
+The goal of this project is to build a model able to predict color names. 
+
 
 ### Project 18
