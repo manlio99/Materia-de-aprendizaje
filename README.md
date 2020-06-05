@@ -31,7 +31,7 @@ The goal of this project is to identify and describe the various customer segmen
 ### [Predicting Flight Delays](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFD)
 The goal of this project is predict flight delays in the month of January. 
 
-### [Predicting IMDB rating for movies](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectIMDB)
+### [Predicting IMDB Rating for Movies](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectIMDB)
 The goal of this project is to build a model that predicts the IMDB rating score based on movie attributes.
 
 ### [Spotify Top Songs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectTSS)
