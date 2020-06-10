@@ -16,6 +16,9 @@ The goal of this project is to characterize song clusters through their musical 
 ### [Trends in Beer Preferences](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBEE)
 The goal of this project is to clusterize and identify trends in beer preferences.
 
+### [COVID-19 Detection in Chest X-Ray Images](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCXR)
+The goal of this project is to build a model that identifies covid-19 and pneumonia in chest X-Ray images. 
+
 ### [Classifying Fake News](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFN)
 The goal of this project is to build a model to identify fake news. 
 
@@ -51,9 +54,6 @@ The goal of this project is to build a chatbot using predefined input patterns a
 
 ### [Detecting Credit Card Fraud](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCCF)
 The goal of this project is to build a model able to recognize fraudulent credit card transactions.
-
-### [COVID-19 Detection in Chest X-Ray Images](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCXR)
-The goal of this project is to build a model that identifies covid-19 and pneumonia in chest X-Ray images. 
 
 ### [Rainbow Guru](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRBG)
 The goal of this project is to build a model able to predict color names. 
