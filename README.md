@@ -28,6 +28,9 @@ The goal of this project is to understand which of the variables in study drive 
 ### [Predicting NBA Salaries](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectNBA)
 The goal of this project is to build a model that predicts the NBA salaries.
 
+### [Breast Cancer Diagnostic](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBCD)
+The goal of this project is to build a model able to predict the diagnosis of breast cancer tissues as malignant or benign.
+
 ### [Wholesale Customers](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWC)
 The goal of this project is to identify and describe the various customer segments hidden in the data.
 
@@ -60,6 +63,3 @@ The goal of this project is to build a model able to predict color names.
 
 ### [Recognizing Traffic Signs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRTS)
 The goal of this project is to build a model that identifies traffic signs images. 
-
-### [Breast Cancer Diagnostic](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBCD)
-The goal of this project is to build a model able to predict the diagnosis of breast cancer tissues as malignant or benign.
