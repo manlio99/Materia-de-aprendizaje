@@ -53,7 +53,7 @@ The goal of this project is to build a chatbot using predefined input patterns a
 The goal of this project is to build a model able to recognize fraudulent credit card transactions.
 
 ### [COVID-19 Detection in Chest X-Ray Images](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCXR)
-The goal of this project is to build a model that identifies pneumonia in chest X-Ray images. 
+The goal of this project is to build a model that identifies covid-19 and pneumonia in chest X-Ray images. 
 
 ### [Rainbow Guru](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRBG)
 The goal of this project is to build a model able to predict color names. 
