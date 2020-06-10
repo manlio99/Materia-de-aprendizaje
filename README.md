@@ -49,17 +49,17 @@ The goal of this project is to build a model to classify audio tracks by genre.
 ### [Chatbot](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectPCB)
 The goal of this project is to build a chatbot using predefined input patterns and responses.
 
-### [Pneumonia Detection in Chest X-Ray Images](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCXR)
-The goal of this project is to build a model that identifies pneumonia in chest X-Ray images. 
-
-### [Recognizing Traffic Signs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRTS)
-The goal of this project is to build a model that identifies traffic signs images. 
-
 ### [Detecting Credit Card Fraud](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCCF)
 The goal of this project is to build a model able to recognize fraudulent credit card transactions.
 
+### [COVID-19 Detection in Chest X-Ray Images](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCXR)
+The goal of this project is to build a model that identifies pneumonia in chest X-Ray images. 
+
 ### [Rainbow Guru](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRBG)
 The goal of this project is to build a model able to predict color names. 
+
+### [Recognizing Traffic Signs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRTS)
+The goal of this project is to build a model that identifies traffic signs images. 
 
 ### [Breast Cancer Diagnostic](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBCD)
 The goal of this project is to build a model able to predict the diagnosis of breast cancer tissues as malignant or benign.
