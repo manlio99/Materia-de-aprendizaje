@@ -8,6 +8,38 @@ A python notebook exploring the Anscombe's quartet dataset.
 ### [Text Classification](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/2_TextClassification/text_classifier.ipynb)
 A python notebook to perform sentiment analysis from tweets. 
 
+## Extracting Data
+
+### [Getting data from NASA](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/1_data_extraction_nasa.ipynb)
+A python notebook showing how to work with raw text files from Nasa. 
+
+### [Soon]()
+Soon
+
+## Data Wrangling 
+
+### [Soon]()
+Soon
+
+### [Soon]()
+Soon
+
+## Data Mining
+
+### [Soon]()
+Soon
+
+### [Soon]()
+Soon
+
+## Data Analytics & Visualization
+
+### [Soon]()
+Soon
+
+### [Soon]()
+Soon
+
 ## Midterm Projects
 
 ### [The Beat of the Music](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBOM)
