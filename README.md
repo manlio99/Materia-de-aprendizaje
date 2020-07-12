@@ -19,6 +19,9 @@ A python notebook showing how to work with Excel spreadsheets files from Califor
 ### [Texas Executed Offenders](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/3_data_extraction_texas_death_row_executions.ipynb)
 A python notebook showing how to work with HTML tables with data from the Texas Department of Criminal Justice.
 
+### [Amazon Musical Instruments Reviews](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/4_data_extraction_amazon)
+A python notebook showing how to work with JSON tables with data from Amazon Musical Instruments Reviews.
+
 ## Data Wrangling 
 
 ### [Soon]()
