@@ -10,12 +10,14 @@ A python notebook to perform sentiment analysis from tweets.
 
 ## Data Extraction
 
-### [Getting data from NASA](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/1_data_extraction_nasa.ipynb)
+### [Getting data from NASA text files ](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/1_data_extraction_nasa.ipynb)
 A python notebook showing how to work with raw text files from Nasa. 
 
 ### [California SAT spreadsheets](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/2_data_extraction_sat.ipynb)
 A python notebook showing how to work with Excel spreadsheets files from California SAT test results.
 
+### [Texas Executed Offenders](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/3_data_extraction_texas_death_row_executions.ipynb)
+A python notebook showing how to work with HTML tables with data from the Texas Department of Criminal Justice.
 
 ## Data Wrangling 
 
