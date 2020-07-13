@@ -24,7 +24,10 @@ A python notebook showing how to work with JSON tables with data from Amazon Mus
 
 ## Data Wrangling 
 
-### [Wrangle Data With pandas](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/5_wrangle_pandas.ipynb)
+### [Wrangle Data With pandas I](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/5_wrangle_pandas.ipynb)
+A python notebook demonstrating pandas dataframe. 
+
+### [Wrangle Data With pandas II](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/7_wrangle_pandas.ipynb)
 A python notebook demonstrating pandas dataframe. 
 
 ### [Pandas Dataframe Pivot: Gapminder](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/6_pivot_with_pandas.ipynb)
