@@ -33,12 +33,6 @@ A python notebook demonstrating pandas dataframe.
 ### [Pandas Dataframe Pivot: Gapminder](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/6_pivot_with_pandas.ipynb)
 A python notebook demonstrating pandas dataframe pivot function. 
 
-### [Soon]()
-Soon
-
-### [Soon]()
-Soon
-
 ## Data Mining
 
 ### [Soon]()
