@@ -35,6 +35,9 @@ A python notebook demonstrating pandas dataframe pivot function.
 
 ## Data Mining
 
+### [Regression with Scikit-Learn](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master//5_DataMining/1_regression.ipynb)
+A python notebook demonstrating basic linear regression using Scikit-Learn.
+
 ### [Soon]()
 Soon
 
