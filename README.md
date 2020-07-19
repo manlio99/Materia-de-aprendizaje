@@ -33,6 +33,9 @@ A python notebook demonstrating pandas dataframe.
 ### [Pandas Dataframe Pivot: Gapminder](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/6_pivot_with_pandas.ipynb)
 A python notebook demonstrating pandas dataframe pivot function. 
 
+### [Outlier detection](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/8_outlier_detection.ipynb)
+A python notebook demonstrating outlier detection.
+
 ## Data Mining
 
 ### [Regression with Scikit-Learn](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master//5_DataMining/1_regression.ipynb)
