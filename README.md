@@ -49,11 +49,11 @@ A python notebook demonstrating clustering in Scikit-Learn.
 
 ## Data Analytics & Visualization
 
-### [Soon]()
-Soon
+### [Data Visualization in Python I](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master//6_DataViz/1_dataviz_in_python.ipynb)
+A python notebook demonstrating the use of Matplotlib, Pandas Visualization and Seaborn.
 
-### [Soon]()
-Soon
+### [Data Visualization in Python II]()
+A python notebook demonstrating the use of Plotly to create interactive visualization. 
 
 ## Midterm Projects
 
