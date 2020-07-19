@@ -42,10 +42,10 @@ A python notebook demonstrating outlier detection.
 A python notebook demonstrating basic linear regression using Scikit-Learn.
 
 ### [Classification with Scikit-Learn](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master//5_DataMining/2_classification.ipynb)
-A python notebook demonstrating classification models in Scikit-Learn.
+A python notebook demonstrating classification in Scikit-Learn.
 
-### [Soon]()
-Soon
+### [Clustering with Scikit-Learn](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master//5_DataMining/3_clustering.ipynb)
+A python notebook demonstrating clustering in Scikit-Learn.
 
 ## Data Analytics & Visualization
 
