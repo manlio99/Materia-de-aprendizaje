@@ -110,3 +110,7 @@ The goal of this project is to build a model able to predict color names.
 
 ### [Recognizing Traffic Signs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRTS)
 The goal of this project is to build a model that identifies traffic signs images. 
+
+## Final Projects
+
+### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
