@@ -94,3 +94,14 @@ In order to use this data, you will require skills in geospatial-temporal analys
 Focus your work on identifying regular patterns. For example, credit card data may contain typical charges like GASTech employees preferring to use their debit and loyalty cards at coffee houses. Deviations from these patterns might indicate suspicious activities or just non-conforming patterns by individuals. Hypotheses about suspicious activities need to be supported by evidence and/or reasoning from data. Look for anomalies such as a credit card charge occurring for an employee while the GPS track indicates a different location for their assigned vehicle. 
 
 Map data, including shape files of Abila city streets and a visitor’s map of the city sites and shops, are provided to you as an additional support to understand patterns of life. For example, even though employees’ home addresses were not provided, patterns of life analysis may reveal where they spent their evening hours, typically indicating their home address. Regular gatherings at what appeared to be residences, but not corresponding to any employee’s home address could suggest different hypotheses.
+
+## Deliverables
+
+Please prepare __a single python notebook__ with the answers __for each task__. However, feel free to use more than a single python file to solve tasks. If necessary, some results may be pre-computed and stored in separate files. Notebooks must clearly explain the answers to each question, supported by evidence derived from the data and visualized using the tools seen in the course. Use the following structure template for the answers notebook:
+
+- <project title> <task name>
+    - <data description>
+    - <answer question 1>
+    - <answer question 2>
+    - <...>
+    
