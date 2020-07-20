@@ -99,7 +99,7 @@ Map data, including shape files of Abila city streets and a visitor’s map of t
 
 Please prepare __a single python notebook__ with the answers __for each task__. However, feel free to use more than a single python file to solve tasks. If necessary, some results may be pre-computed and stored in separate files. Notebooks must clearly explain the answers to each question, supported by evidence derived from the data and visualized using the tools seen in the course. Use the following structure template for the answers notebook:
 
-- <project title> <task name>
+- <project title, task name>
     - <data description>
     - <answer question 1>
     - <answer question 2>
