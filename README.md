@@ -145,3 +145,12 @@ Your task is to investigate the hydrology data from across the Preserve to see i
 
 ### [Suspense at the Wildlife Preserve: “Organized” Crime? ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveOrganizedCrime)
 An unexpected source suggests extent of the Kasios involvement in illicit activities may be much broader than just Mistford and the Wildlife Preserve. Data analysis of some challenging data may provide further insights on the scope of their activities.
+
+### [Disaster at St. Himark!: Crowdsourcing for Situational Awareness ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/DisasterStHimarkCrowdsourcingSituationalAwareness)
+Combining seismic readings of an earthquake, responses from an app, and background knowledge of the city, help the city of St. Himark triage their efforts for rescue and recovery.
+
+### [Disaster at St. Himark!: Citizen Science to the Rescue ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/DisasterStHimarkCitizenScienceRescue)
+Help the city’s government and emergency management officials to understand if there is a risk to the public while also responding to other emerging crises related to the earthquake as well as satisfying the public’s concern over radiation.
+
+### [Disaster at St. Himark!: Voice from the People ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/DisasterStHimarkVoicePeople)
+Using your data analytics skills, help the city of St. Himark to analyze Y*INT messages in order to determine the appropriate actions it must take in order to assist the community in this disaster.
