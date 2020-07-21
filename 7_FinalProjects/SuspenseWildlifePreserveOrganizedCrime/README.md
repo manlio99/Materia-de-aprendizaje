@@ -11,7 +11,7 @@ Mitch spends weeks reviewing press coverage of Kasios International and public s
 
 To his disappointment Mitch is not granted a meeting. Then Mitch receives an anonymous letter from someone who’s willing to help. A fellow pipit lover who works at Kasios International has gathered up a variety of company data and identified a suspicious group within the company. Attached to the letter Mitch receives is a USB drive with phone, email, meeting, and procurement records for Kasios International over the past 2 1/2 years. Mitch wonders if the fate of the Eurasian Pipit lies somewhere in that data. Mitch intends to put this data together to see if the problems with Kasios are much larger than he initially suspected.
 
-Your task, as supported by visual analytics that you apply, is to help Mitch determine the organizational structure of the group within Kasios that was referenced by the insider providing Mitch the data. How is it internally connected and is anyone else involved? Use data analytics to explore the available data and develop responses to the questions below. 
+Your task, as supported by data analytics that you apply, is to help Mitch determine the organizational structure of the group within Kasios that was referenced by the insider providing Mitch the data. How is it internally connected and is anyone else involved? Use data analytics to explore the available data and develop responses to the questions below. 
 
 ### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveOrganizedCrime/data/task3.zip)*
 
