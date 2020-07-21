@@ -113,7 +113,11 @@ The goal of this project is to build a model that identifies traffic signs image
 
 ## Final Projects
 
-### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
+### [The Kronos Incident: The Kidnapping and a Historical Analysis of the Protectors of Kronos](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncidentTheKidnapping)
+Your task is to bring law enforcement up to date on the current organization of the Protectors of Kronos and how that organization has changed over time, as well as to characterize the events surrounding the disappearance of several employees of GAStech. 
+
+### [The Kronos Incident: Geospatial-Temporal Patterns of Life Analysis](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncidentGeospatial)
+As a data scientist expert assisting law enforcement, your mission is to make sense of geospatial data to identify suspicious patterns of behavior and to prioritize which of these may be related to the missing staff members of GAStech.
 
 ### [Mayhem at DinoFun World](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MayhemDinoFunWorld)
 
