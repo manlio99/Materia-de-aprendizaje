@@ -114,3 +114,11 @@ The goal of this project is to build a model that identifies traffic signs image
 ## Final Projects
 
 ### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
+
+### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
+
+### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
+
+### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
+
+### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
