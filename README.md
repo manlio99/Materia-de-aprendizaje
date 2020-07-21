@@ -142,3 +142,6 @@ Using a bird call collection and a map of the Wildlife Preserve, your are asked 
 
 ### [Suspense at the Wildlife Preserve: Like a Duck to Water ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveDuckWater)
 Your task is to investigate the hydrology data from across the Preserve to see if it could make up for the soil evidence that was destroyed.
+
+### [Suspense at the Wildlife Preserve: “Organized” Crime? ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveOrganizedCrime)
+An unexpected source suggests extent of the Kasios involvement in illicit activities may be much broader than just Mistford and the Wildlife Preserve. Data analysis of some challenging data may provide further insights on the scope of their activities.
