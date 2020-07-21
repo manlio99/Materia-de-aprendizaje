@@ -138,7 +138,7 @@ Your task, as supported by data analytics that you apply, is to detangle air sam
 Your task is to identify features that change over time via multispectral image analysis, with focus on changes that are occurring that may provide clues to the problems with the Pipit bird. 
 
 ### [Suspense at the Wildlife Preserve: “Cheep” Shots ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveCheepShots)
-After being implicated in environmental damage to the Boonsong Lekagul Wildlife, Kasios Furniture Company has launched an investigation, and claim they have evidence of a thriving population of Rose-crested Blue Pipits happily living and nesting in the Preserve. Using a bird call collection and a map of the Wildlife Preserve, your are asked to characterize the patterns of all of the bird species in the Preserve over the time of the collection, and then to verify or refute Kasios’ claims.
+Using a bird call collection and a map of the Wildlife Preserve, your are asked to characterize the patterns of all of the bird species in the Preserve over the time of the collection, and then to verify or refute Kasios’ Company claims.
 
 ### [Suspense at the Wildlife Preserve: Like a Duck to Water ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveDuckWater)
 Your task is to investigate the hydrology data from across the Preserve to see if it could make up for the soil evidence that was destroyed.
