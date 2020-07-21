@@ -12,17 +12,7 @@ The building is instrumented with passive prox card readers that cover individua
 
 As part of the deal to entice GAStech to move into this new building, the builders included a free robotic mail delivery system. This robot, nicknamed Rosie, travels the halls periodically, moving between floors in a specially designed chute. Rosie is equipped with a mobile prox sensor, which identifies the prox cards in the areas she travels through.
 
-## Task 1: Static Analysis
-
-As an expert in data analytics, you have been hired to help GAStech understand its operations data. In this task, you are given two weeks of building and prox sensor data. Can you identify typical patterns  and issues of concern? You will have the following data and supporting information at your disposal:
-
-* A building layout for the GAStech offices, including the maps of the prox zones and the HVAC zones
-* A current list of employees, roles, and office assignments
-* A description of the data formats and fields provided
-* Proximity sensor data for each of the prox zone regions
-* Proximity sensor data from Rosie the mobile robot
-* HVAC sensor readings and status information from each of the building’s HVAC zones
-* *Hazium* readings from four sensors (hazium is a fictitious chemical that has become a recent concern on the island of Kronos. Not much is known about its effects, but it is suspected that Hazium is not good for people).
+As an expert in data analytics, you have been hired to help GAStech understand its operations data. In this task, you are given two weeks of building and prox sensor data. Can you identify typical patterns  and issues of concern? 
 
 ### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/ReturntoKronos/data/task1.zip)*
 
@@ -33,8 +23,8 @@ In addition to the static sensor data, the data includes lectures from a mobile 
 * A description of the data formats and fields provided
 * Proximity sensor data for each of the prox zone regions
 * Proximity sensor data from Rosie the mobile robot
-* HVAC sensor readings and status information from each of the building's HVAC zones
-* Hazium readings from four sensors
+* HVAC sensor readings and status information from each of the building’s HVAC zones
+* *Hazium* readings from four sensors (hazium is a fictitious chemical that has become a recent concern on the island of Kronos. Not much is known about its effects, but it is suspected that Hazium is not good for people).
 
 ### Goals
 

@@ -126,6 +126,7 @@ You are being asked to characterize the movement of groups and individuals at Di
 You will have to dive into communication registers over time that took place among DinoFun World park visitors using the park app. Linkages between visitors and among park patrons and park staff could reveal behaviors of interest.
 
 ### [Return to Kronos](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/ReturntoKronos)
+As an expert in data analytics, you have been hired to help GAStech understand its operations data. In this task, you are given two weeks of building and prox sensor data. Can you identify typical patterns  and issues of concern? 
 
 ### [Mystery at the Wildlife Preserve I](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveI)
 
