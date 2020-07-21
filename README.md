@@ -128,13 +128,15 @@ You will have to dive into communication registers over time that took place amo
 ### [Return to Kronos](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/ReturntoKronos)
 As an expert in data analytics, you have been hired to help GAStech understand its operations data. In this task, you are given two weeks of building and prox sensor data. Can you identify typical patterns  and issues of concern? 
 
-### [Mystery at the Wildlife Preserve I: Vehicle Patterns of Life](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveIVehiclePatternsLife)
+### [Mystery at the Wildlife Preserve: Vehicle Patterns of Life](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveIVehiclePatternsLife)
 Characterize the vehicle patterns of life at the Boonsong Lekagul Nature Preserve and find the link between the traffic going through the preserve and the decline in the nesting Rose-crested Blue Pipit. 
 
-### [Mystery at the Wildlife Preserve I: Plume Analysis](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveIPlumeAnalysis)
+### [Mystery at the Wildlife Preserve: Plume Analysis](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveIPlumeAnalysis)
 Your task, as supported by data analytics that you apply, is to detangle air sampling data monitored by nine different sensors in the preserve, in order to determine where problems may be affecting the decline in the nesting Rose-crested Blue Pipit.  
 
-### [Mystery at the Wildlife Preserve I: Multispectral Imagery](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveIMultispectralImagery)
+### [Mystery at the Wildlife Preserve: Multispectral Imagery](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveIMultispectralImagery)
 Your task is to identify features that change over time via multispectral image analysis, with focus on changes that are occurring that may provide clues to the problems with the Pipit bird. 
 
-### [Mystery at the Wildlife Preserve II](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveII)
+### [Suspense at the Wildlife Preserve: “Cheep” Shots ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveCheepShots)
+After being implicated in environmental damage to the Boonsong Lekagul Wildlife, Kasios Furniture Company has launched an investigation, and claim they have evidence of a thriving population of Rose-crested Blue Pipits happily living and nesting in the Preserve. Using a bird call collection and a map of the Wildlife Preserve, your are asked to characterize the patterns of all of the bird species in the Preserve over the time of the collection, and then to verify or refute Kasios’ claims.
+
