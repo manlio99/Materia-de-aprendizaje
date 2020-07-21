@@ -115,10 +115,10 @@ The goal of this project is to build a model that identifies traffic signs image
 
 ### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
 
-### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
+### [Mayhem at DinoFun World](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MayhemDinoFunWorld)
 
-### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
+### [Return to Kronos](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/ReturntoKronos)
 
-### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
+### [Mystery at the Wildlife Preserve I](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveI)
 
-### [The Kronos Incident](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncident)
+### [Mystery at the Wildlife Preserve II](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserveII)
