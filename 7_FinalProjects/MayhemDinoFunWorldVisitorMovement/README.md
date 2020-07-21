@@ -1,4 +1,4 @@
-# Mayhem at DinoFun World
+# Mayhem at DinoFun World: Visitor Movement
 
 ## Background
 DinoFun World is a typical modest-sized amusement park, sitting on about 215 hectares and hosting thousands of visitors each day. It has a small town feel, but it is well known for its exciting rides and events.
@@ -9,10 +9,9 @@ However, the event did not go as planned. Scott’s weekend was marred by crime 
 
 While the crimes were rapidly solved, park officials and law enforcement figures are interested in understanding just what happened during that weekend to better prepare themselves for future events. They are interested in understanding how people move and communicate in the park, as well as how patterns changes and evolve over time, and what can be understood about motivations for changing patterns.
 
-## Task 1: Visitor Movement
 You have access to movement tracking information for all of the paying park visitors over the three days of the Scott Jones celebration. This data contains many patterns that are useful for planning park operations. On this particular weekend a crime occurred and the data likely contains information pertinent to that crime. Analyze the available data and develop responses to the questions below. 
 
-### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MayhemDinoFunWorld/data/task1.zip)*
+### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MayhemDinoFunWorldVisitorMovement/data/task1.zip)*
 
 This task is focused on movement of people around the park.  We provide you with access to movement tracking information for all paying park visitors over the three days of the celebration. The datasets are `.csv` files for Friday, Saturday, and Sunday, containing a date-time stamp, a visitor ID, a tag as to whether the record referred to a movement within the park grid or a “check-in” to an amusement park ride, and a grid location (x,y coordinates). There is also some auxiliar information that provide extra context (i.e. map, park website, news article).
 
@@ -34,29 +33,6 @@ You are asked to characterize the movement of groups and individuals, with a spe
 
 The definition of *group* is intentionally left to you to determine, so you can best formulate it within the context of your working hypotheses and evidence. For example, a large family group may have between 1-2 adults and 1-5 children. They would visit shopping stalls in the evenings. They would arrive around 08:00 and exit around 23:00. There is also a possibility that at some point during the day, groups would split up according to people-types; the adults and children (e.g., independent teens) would travel around the park in different ways.
 Park operations may also impact groups. For example, when a thrill ride shut down for repairs, it would affect the agendas for the teens mentioned above, more than for parents and very young children focused on kiddie rides. In order to answer 2. and 3. look for major/minor disruptions to the movement patterns of park guests. 
-
-## Task 2: Visitor Communication
-You have access to the in-app communication data over the three days of the Scott Jones celebration. This includes communications between the paying park visitors, as well as communications between the visitors and park services. In addition, the data also contains records indicating if and when the user sent a text to an external party. Use analytics to explore and analyze the available data and develop responses to the questions below. 
-
-### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MayhemDinoFunWorld/data/task2.zip)*
-
-The data for this task consists of three days worth of communications from Friday through Sunday. The data fields were a timestamp, the originator’s ID, the recipient’s ID, and the park area from which the message was sent. As can be seen in the shading of the map, the park is broken up into five themed areas: the Entry Corridor, Kiddie Land, Tundra Land, Wet Land, and Coaster Alley. So, while these locations were not precise, they indicate general geo-coordinate information for the analyses. There is also some auxiliar information that provide extra context (i.e. map, park website, news article).
-
-### Goals
-
-You are asked to characterize dominant communication IDs, interesting communication patterns, and suspicious patterns that could contribute to the analysis of the crime. Specifically: 
-
-1. Identify groups that stand out for their large volumes of communication. 
-    1. Characterize the communication patterns you see.
-    2. Based on these patterns, what do you hypothesize about these IDs?
-
-2. Describe up to 10 communications patterns in the data. Characterize who is communicating, with whom, when and where. If you have more than 10 patterns to report, please prioritize those patterns that are most likely to relate to the crime.
-
-3. From this data, can you hypothesize when the vandalism was discovered? Describe your rationale.
-
-To characterize users of the communications facility pay attention to revealing patterns other than IDs. We do not specify any characteristics for patterns we want you to report, but be aware that patterns related to the incident __are present__ in the data. Some innocuous patterns include group leaders sending bulk messages to their groups to request meetups or to communicate an interesting bit of information. Some of the message recipients responded. 
-
-The pattern was repeated at other times during the day. When people were standing in a ride queue or at a food and drink attraction, they had an increased possibility of making new friends with people nearby who did not accompany them to the park. They could communicate with new friends during the rest of their time in the park. There was an increased likelihood that people would send external messages when Scott Jones was in the park (8:45-11:35 each day and 13:45- 16:30 on Friday and Saturday), specifically if they were near Scott as he traveled through the park. Some communications patterns were associated with the crime. For example, there was an increase in messages among group members, to the help desk, and to external contacts when the Scott Jones memorabilia vandalism was discovered.
 
 ## Deliverables
 

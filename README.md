@@ -119,7 +119,11 @@ Your task is to bring law enforcement up to date on the current organization of 
 ### [The Kronos Incident: Geospatial-Temporal Patterns of Life Analysis](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/TheKronosIncidentGeospatial)
 As a data scientist expert assisting law enforcement, your mission is to make sense of geospatial data to identify suspicious patterns of behavior and to prioritize which of these may be related to the missing staff members of GAStech.
 
-### [Mayhem at DinoFun World](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MayhemDinoFunWorld)
+### [Mayhem at DinoFun World: Visitor Movement](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MayhemDinoFunWorldVisitorMovement)
+You are being asked to characterize the movement of groups and individuals at DinoFun World park, with a special emphasis on what might be relevant to better understanding the incident that occurred in June 2014.
+
+### [Mayhem at DinoFun World: Visitor Communication](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MayhemDinoFunWorldVisitorCommunication)
+You will have to dive into communication registers over time that took place among DinoFun World park visitors using the park app. Linkages between visitors and among park patrons and park staff could reveal behaviors of interest.
 
 ### [Return to Kronos](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/ReturntoKronos)
 
