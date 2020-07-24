@@ -154,3 +154,9 @@ Help the city’s government and emergency management officials to understand if
 
 ### [Disaster at St. Himark!: Voice from the People ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/DisasterStHimarkVoicePeople)
 Using your data analytics skills, help the city of St. Himark to analyze Y*INT messages in order to determine the appropriate actions it must take in order to assist the community in this disaster.
+
+### [Center for Global Cyber Strategy: Graph Analysis ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/CenterGlobalCyberStrategyGraphAnalysis)
+CGCS research has resulted in the creation of profiles of typical white hat groups. One such profile has been identified by CGCS sociopsychologists as most likely to resemble the structure of the group in involved in this accidental shutdown. You are asked to examine CGCS records and identify those groups who most closely resemble the identified profile.
+
+### [Center for Global Cyber Strategy: Object of the Search ](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/CenterGlobalCyberStrategyObjectSearch)
+Further analysis of the cyber event has given a strong indication that a subgroup of eight individuals were behind the bug. The CGCS has received a tip that this group rarely meets in person and instead they use a special item—a totem—as a secret signal of their affiliation. Investigators at the CGCS need your help analyzing the contents of those records to look for clues to the identity of the eight individuals.
