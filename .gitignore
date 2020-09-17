@@ -1,2 +1,3 @@
 .*
 !/.gitignore
+ !/Materia-de-aprendizaje/4_DataWrangling/1_data_extraction_nasa.ipynb 
