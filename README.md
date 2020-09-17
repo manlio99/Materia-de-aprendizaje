@@ -1,4 +1,20 @@
-# Data Science Capstone
+# Aprendizaje de máquina
+
+
+## Data Wrangling 
+
+### [Wrangle Data With pandas I](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/5_wrangle_pandas.ipynb)
+A python notebook demonstrating pandas dataframe. 
+
+### [Wrangle Data With pandas II](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/7_wrangle_pandas.ipynb)
+A python notebook demonstrating pandas dataframe. 
+
+### [Pandas Dataframe Pivot: Gapminder](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/6_pivot_with_pandas.ipynb)
+A python notebook demonstrating pandas dataframe pivot function. 
+
+### [Outlier detection](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/8_outlier_detection.ipynb)
+A python notebook demonstrating outlier detection.
+
 
 ## Intro to DSC
 
@@ -22,19 +38,6 @@ A python notebook showing how to work with HTML tables with data from the Texas 
 ### [Amazon Musical Instruments Reviews](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/4_data_extraction_amazon.ipynb)
 A python notebook showing how to work with JSON tables with data from Amazon Musical Instruments Reviews.
 
-## Data Wrangling 
-
-### [Wrangle Data With pandas I](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/5_wrangle_pandas.ipynb)
-A python notebook demonstrating pandas dataframe. 
-
-### [Wrangle Data With pandas II](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/7_wrangle_pandas.ipynb)
-A python notebook demonstrating pandas dataframe. 
-
-### [Pandas Dataframe Pivot: Gapminder](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/6_pivot_with_pandas.ipynb)
-A python notebook demonstrating pandas dataframe pivot function. 
-
-### [Outlier detection](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/8_outlier_detection.ipynb)
-A python notebook demonstrating outlier detection.
 
 ## Data Mining
 
