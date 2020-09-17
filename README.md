@@ -3,17 +3,17 @@
 
 ## Data Wrangling 
 
-### [Wrangle Data With pandas I](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/5_wrangle_pandas.ipynb)
+### [Wrangle Data With pandas I](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/4_DataWrangling/01_data_extraction_sat_esp.ipynb)
 A python notebook demonstrating pandas dataframe. 
 
-### [Wrangle Data With pandas II](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/7_wrangle_pandas.ipynb)
+### [Wrangle Data With pandas II](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/4_DataWrangling/02_data_extraction_texas_death_row_executions_esp.ipynb)
 A python notebook demonstrating pandas dataframe. 
 
-### [Pandas Dataframe Pivot: Gapminder](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/6_pivot_with_pandas.ipynb)
+### [Pandas Dataframe III ](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/4_DataWrangling/03_data_extraction_amazon_esp.ipynb)
 A python notebook demonstrating pandas dataframe pivot function. 
 
-### [Outlier detection](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/4_DataWrangling/8_outlier_detection.ipynb)
-A python notebook demonstrating outlier detection.
+### [data extraction nasa IV ](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/4_DataWrangling/04_data_extraction_nasa_esp.ipynb)
+A python notebook data extraction nasa IV.
 
 
 ## Intro to DSC
