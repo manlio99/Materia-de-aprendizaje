@@ -1,5 +1,7 @@
 5_DataMining/*
-6_DataViz
+6_DataViz/*.ipynb 
 4_DataWrangling/1_data_extraction_nasa.ipynb 
 Materia-de-aprendizaje/2_TextClassification/*
+
+2_TextClassification/text_classifier.ipynb 
 
