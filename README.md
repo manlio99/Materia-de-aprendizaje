@@ -60,58 +60,58 @@ A python notebook demonstrating the use of Plotly to create interactive visualiz
 
 ## Midterm Projects
 
-### [The Beat of the Music](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBOM)
+### [The Beat of the Music](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectBOM)
 The goal of this project is to characterize song clusters through their musical attributes.
 
-### [Trends in Beer Preferences](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBEE)
+### [Trends in Beer Preferences](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectBEE)
 The goal of this project is to clusterize and identify trends in beer preferences.
 
-### [COVID-19 Detection in Chest X-Ray Images](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCXR)
+### [COVID-19 Detection in Chest X-Ray Images](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectCXR)
 The goal of this project is to build a model that identifies covid-19 and pneumonia in chest X-Ray images. 
 
-### [Classifying Fake News](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFN)
+### [Classifying Fake News](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectFN)
 The goal of this project is to build a model to identify fake news. 
 
-### [Understanding Boston Housing Prices](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBHP)
+### [Understanding Boston Housing Prices](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectBHP)
 The goal of this project is to understand which of the variables in study drive the price of homes in Boston. 
 
-### [Predicting NBA Salaries](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectNBA)
+### [Predicting NBA Salaries](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectNBA)
 The goal of this project is to build a model that predicts the NBA salaries.
 
-### [Breast Cancer Diagnostic](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectBCD)
+### [Breast Cancer Diagnostic](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectBCD)
 The goal of this project is to build a model able to predict the diagnosis of breast cancer tissues as malignant or benign.
 
-### [Wholesale Customers](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWC)
+### [Wholesale Customers](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectWC)
 The goal of this project is to identify and describe the various customer segments hidden in the data.
 
-### [Predicting Flight Delays](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectFD)
+### [Predicting Flight Delays](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectFD)
 The goal of this project is predict flight delays in the month of January. 
 
-### [Predicting IMDB Rating for Movies](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectIMDB)
+### [Predicting IMDB Rating for Movies](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectIMDB)
 The goal of this project is to build a model that predicts the IMDB rating score based on movie attributes.
 
-### [Spotify Top Songs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectTSS)
+### [Spotify Top Songs](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectTSS)
 The goal of this project is to understand which features make a song popular.
 
-### [Violent Crime Rates by US State](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectUSA)
+### [Violent Crime Rates by US State](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectUSA)
 The goal of this project is to identify hierarchies of clusters of US states according to violent crime rates data. 
 
-### [Wine Reviews](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectWNF)
+### [Wine Reviews](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectWNF)
 The goal of this project is to clusterize and identify trends in wine preferences.
 
-### [Music Genre Classification](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectGTZ)
+### [Music Genre Classification](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectGTZ)
 The goal of this project is to build a model to classify audio tracks by genre.
 
-### [Chatbot](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectPCB)
+### [Chatbot](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectPCB)
 The goal of this project is to build a chatbot using predefined input patterns and responses.
 
-### [Detecting Credit Card Fraud](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectCCF)
+### [Detecting Credit Card Fraud](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectCCF)
 The goal of this project is to build a model able to recognize fraudulent credit card transactions.
 
-### [Rainbow Guru](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRBG)
+### [Rainbow Guru](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectRBG)
 The goal of this project is to build a model able to predict color names. 
 
-### [Recognizing Traffic Signs](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/3_MidtermProjects/ProjectRTS)
+### [Recognizing Traffic Signs](https://github.com/manlio99/Materia-de-aprendizaje/blob/master/3_MidtermProjects/ProjectRTS)
 The goal of this project is to build a model that identifies traffic signs images. 
 
 ## Final Projects
