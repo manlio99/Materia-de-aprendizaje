@@ -1,4 +1,4 @@
 
-# Classifying Fake News
-The goal of this project is to build a model to identify fake news. Data from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset). Please, work over this [notebook](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/3_MidtermProjects/ProjectFN/main.ipynb)
+# Clasificación de noticias falsas
+El objetivo de este proyecto es construir un modelo para identificar noticias falsas. Datos de [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset). Por favor, trabaja en main.ipynb.
 
