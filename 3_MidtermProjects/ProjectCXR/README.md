@@ -1,3 +1,3 @@
-# COVID-19 Detection in Chest X-Ray Images
-The goal of this project is to build a model that identifies COVID-19  and pneumonia in chest X-Ray images. Data from [Mendeley](https://data.mendeley.com/datasets/fvk7h5dg2p/1). Please, work over this [notebook](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/3_MidtermProjects/ProjectCXR/main.ipynb).
+# Detección de COVID-19 en imágenes de rayos X de tórax
+El objetivo de este proyecto es construir un modelo que identifique COVID-19 y neumonía en imágenes de rayos X de tórax. Datos de [Mendeley](https://data.mendeley.com/datasets/fvk7h5dg2p/1). Por favor, trabaja en main.ipynb.
 
