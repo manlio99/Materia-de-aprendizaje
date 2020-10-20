@@ -1,4 +1,4 @@
-# Detecting Credit Card Fraud
-The goal of this project is to build a model able to recognize fraudulent credit card transactions. Data from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud). Please, work over this [notebook](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/3_MidtermProjects/ProjectCCF/main.ipynb).
+# Detecting Credit Card Fraud o Detectar fraudes con tarjetas de crédito
+El objetivo de este proyecto es construir un modelo capaz de reconocer transacciones fraudulentas con tarjetas de crédito. Datos de [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud). Por favor, trabaja en main.ipynb.
 
 
