@@ -1,4 +1,4 @@
 
-# Music Genre Classification
-The goal of this project is to build a model to classify audio tracks by genre. Data from [Kaggle](https://www.kaggle.com/carlthome/gtzan-genre-collection). Please, work over this [notebook](https://colab.research.google.com/github/emmanueliarussi/DataScienceCapstone/blob/master/3_MidtermProjects/ProjectGTZ/main.ipynb).
+# Clasificación de género musical
+El objetivo de este proyecto es construir un modelo para clasificar las pistas de audio por género. Datos de[Kaggle](https://www.kaggle.com/carlthome/gtzan-genre-collection). Por favor, trabaja en main.ipynb.
 
